@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "1715ccbe-95fa-4999-8fe7-6894534f1af5",
+    "name": "eeeeeeeee",
+    "created": "2023-10-21 10:57:20 +0000",
+    "source": "PiteTo",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "8a347d14-ff5d-3b7a-91ec-9a687bbaec9e",
+    "name": "SteveAlts1",
+    "created": "2023-10-21 10:55:20 +0000",
+    "source": "PiteTo",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e58e34a1-358c-31cd-97ee-0e33d68fdff0",
+    "name": "piteTo",
+    "created": "2023-10-21 12:30:17 +0000",
+    "source": "PiteTo",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

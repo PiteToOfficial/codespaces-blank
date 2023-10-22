@@ -1,0 +1,340 @@
+[18:20:43] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:20:45] [ServerMain/INFO]: Loaded 7 recipes
+[18:20:46] [ServerMain/INFO]: Loaded 1271 advancements
+[18:20:46] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[18:20:46] [Server thread/INFO]: Loading properties
+[18:20:46] [Server thread/INFO]: Default game type: SURVIVAL
+[18:20:46] [Server thread/INFO]: Generating keypair
+[18:20:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:20:47] [Server thread/INFO]: Using epoll channel type
+[18:20:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:20:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:20:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:20:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:20:47] [Server thread/INFO]: Preparing level "world"
+[18:20:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:20:59] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[18:20:59] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[18:21:00] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[18:21:00] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[18:21:01] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[18:21:01] [Worker-Main-1/INFO]: Preparing spawn area: 37%
+[18:21:02] [Worker-Main-1/INFO]: Preparing spawn area: 58%
+[18:21:02] [Server thread/INFO]: Time elapsed: 9649 ms
+[18:21:02] [Server thread/INFO]: Done (15.401s)! For help, type "help"
+[18:23:24] [Server thread/INFO]: eee[/[0:0:0:0:0:0:0:1%0]:52826] logged in with entity id 121 at (-109.90822559222713, 37.0, 567.5903791192989)
+[18:23:24] [Server thread/INFO]: eee joined the game
+[18:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[18:23:36] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:59524] logged in with entity id 230 at (-87.87312112040986, 68.0, 57.32829509629418)
+[18:23:37] [Server thread/INFO]: PiteTo joined the game
+[18:23:51] [Server thread/INFO]: [Not Secure] <PiteTo> -87 68 57
+[18:27:06] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:59676] logged in with entity id 922 at (-452.5, 64.0, 463.5)
+[18:27:06] [Server thread/INFO]: arthurus36 joined the game
+[18:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[18:27:12] [Server thread/INFO]: [Not Secure] <arthurus36> hi
+[18:27:28] [Server thread/INFO]: PiteTo was shot by Piglin
+[18:27:32] [Server thread/INFO]: [Not Secure] <arthurus36> bru
+[18:28:30] [Server thread/INFO]: [PiteTo: Removed 7 item(s) from player eee]
+[18:28:35] [Server thread/INFO]: [Not Secure] <arthurus36> well
+[18:28:39] [Server thread/INFO]: [Not Secure] <arthurus36> if my script work
+[18:28:43] [Server thread/INFO]: [PiteTo: Removed every effect from eee]
+[18:28:46] [Server thread/INFO]: [Not Secure] <arthurus36> well i got a way to spoof it to dr fuck pc
+[18:28:57] [Server thread/INFO]: [Not Secure] <arthurus36> bc he likes to get to vms
+[18:28:59] [Server thread/INFO]: [Not Secure] <arthurus36> well
+[18:29:05] [Server thread/INFO]: [Not Secure] <arthurus36> the url is a trap
+[18:29:11] [Server thread/INFO]: [Not Secure] <arthurus36> xss download
+[18:29:58] [Server thread/WARN]: arthurus36 moved too quickly! 5.981548815525585,-8.0,-0.5925229805914753
+[18:30:12] [Server thread/WARN]: arthurus36 moved too quickly! -7.939963260241882,6.749094713892177,-1.7741846189086345
+[18:30:12] [Server thread/WARN]: arthurus36 moved too quickly! -10.255389983121518,0.0,-2.291566670096927
+[18:30:13] [Server thread/WARN]: arthurus36 moved too quickly! -10.351031386864577,0.0,-2.3129377396963946
+[18:30:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[18:30:13] [Server thread/WARN]: arthurus36 moved too quickly! -10.40458937398887,0.0,-2.3249052707618034
+[18:30:13] [Server thread/WARN]: arthurus36 moved too quickly! -9.836971816989376,0.0,-2.1980711399172037
+[18:30:13] [Server thread/WARN]: arthurus36 moved too quickly! -10.003700052618683,0.0,-2.2353265605653405
+[18:30:13] [Server thread/WARN]: arthurus36 moved too quickly! -10.171559713465854,0.0,-2.8557692205390026
+[18:30:14] [Server thread/WARN]: arthurus36 moved too quickly! -9.19097608884806,0.0,-5.920041384086858
+[18:30:17] [Server thread/WARN]: arthurus36 moved too quickly! 9.888227192732415,0.0,5.616359553661766
+[18:30:19] [Server thread/WARN]: arthurus36 moved too quickly! 9.920265305288353,0.0,5.657821345666491
+[18:30:20] [Server thread/WARN]: arthurus36 moved wrongly!
+[18:30:21] [Server thread/WARN]: arthurus36 moved wrongly!
+[18:30:21] [Server thread/WARN]: arthurus36 moved wrongly!
+[18:30:22] [Server thread/WARN]: arthurus36 moved wrongly!
+[18:30:37] [Server thread/WARN]: arthurus36 moved wrongly!
+[18:30:44] [Server thread/WARN]: arthurus36 moved wrongly!
+[18:30:50] [Server thread/WARN]: arthurus36 moved too quickly! -10.556778560002954,0.0,-2.3300177666300783
+[18:30:50] [Server thread/WARN]: arthurus36 moved too quickly! -10.24528709950556,0.0,-2.2614802063869774
+[18:31:10] [Server thread/INFO]: [Not Secure] <arthurus36> man this server dead
+[18:31:19] [Server thread/INFO]: [Not Secure] <PiteTo> no
+[18:32:03] [Server thread/INFO]: PiteTo was slain by Zombified Piglin
+[18:33:15] [Server thread/INFO]: [Not Secure] <arthurus36> shit
+[18:33:25] [Server thread/INFO]: [Not Secure] <arthurus36> go base
+[18:33:26] [Server thread/INFO]: [Not Secure] <eee> WTF
+[18:33:28] [Server thread/INFO]: [Not Secure] <eee> HOW DID YALL GET
+[18:33:39] [Server thread/INFO]: [Not Secure] <arthurus36> they can enter doors
+[18:33:42] [Server thread/INFO]: PiteTo was slain by Zombified Piglin
+[18:33:48] [Server thread/INFO]: arthurus36 was slain by Zombified Piglin
+[18:33:51] [Server thread/INFO]: [Not Secure] <arthurus36> fuck
+[18:34:26] [Server thread/INFO]: [Not Secure] <PiteTo> thankz
+[18:34:41] [Server thread/INFO]: [Not Secure] <arthurus36> piglin farm from 5min craft
+[18:35:18] [Server thread/INFO]: PiteTo burned to death
+[18:35:54] [Server thread/INFO]: PiteTo was slain by Zombified Piglin
+[18:36:41] [Server thread/INFO]: [Not Secure] <arthurus36> im on a tree lol
+[18:36:49] [Server thread/INFO]: PiteTo was slain by Zombie
+[18:36:54] [Server thread/INFO]: [Not Secure] <PiteTo> you fuccking idiot
+[18:36:58] [Server thread/INFO]: [Not Secure] <PiteTo> why did you lock the doors
+[18:37:02] [Server thread/INFO]: [Not Secure] <eee> THE FUCK DID I PROMISE?
+[18:37:03] [Server thread/INFO]: [Not Secure] <arthurus36> man idk
+[18:37:26] [Server thread/INFO]: eee lost connection: Kicked by an operator
+[18:37:26] [Server thread/INFO]: eee left the game
+[18:37:26] [Server thread/INFO]: [PiteTo: Kicked eee: Kicked by an operator]
+[18:37:26] [Server thread/WARN]: handleDisconnection() called twice
+[18:37:29] [Server thread/INFO]: eee[/[0:0:0:0:0:0:0:1%0]:34676] logged in with entity id 4961 at (149.87501624167768, 76.0, 133.22875143731713)
+[18:37:29] [Server thread/INFO]: eee joined the game
+[18:37:42] [Server thread/INFO]: [Not Secure] <arthurus36> l zombie
+[18:37:55] [Server thread/INFO]: PiteTo was slain by Zombified Piglin
+[18:38:04] [Server thread/INFO]: [PiteTo: Banned eee: nie ma lootowanie]
+[18:38:04] [Server thread/INFO]: eee lost connection: You are banned from this server
+[18:38:04] [Server thread/INFO]: eee left the game
+[18:38:16] [Server thread/INFO]: arthurus36 was slain by Zombie
+[18:38:25] [Server thread/INFO]: [PiteTo: Unbanned eee]
+[18:38:28] [Server thread/INFO]: eee[/[0:0:0:0:0:0:0:1%0]:39916] logged in with entity id 5507 at (180.5479927141936, 70.0, 180.3226227008076)
+[18:38:28] [Server thread/INFO]: eee joined the game
+[18:38:59] [Server thread/INFO]: [Not Secure] <arthurus36> question where u hostin server
+[18:39:17] [Server thread/INFO]: [Not Secure] <PiteTo> i am traveling to old base
+[18:39:22] [Server thread/INFO]: [Not Secure] <PiteTo> in nether
+[18:39:24] [Server thread/INFO]: [Not Secure] <arthurus36> ok
+[18:39:48] [Server thread/INFO]: [Not Secure] <eee> 185
+[18:39:49] [Server thread/INFO]: [Not Secure] <eee> 53
+[18:39:51] [Server thread/INFO]: [Not Secure] <eee> 199
+[18:40:07] [Server thread/INFO]: arthurus36 was slain by Zombified Piglin
+[18:40:13] [Server thread/INFO]: [Not Secure] <arthurus36> ok i gotchu anyways
+[18:40:22] [Server thread/INFO]: PiteTo tried to swim in lava to escape Zombified Piglin
+[18:40:22] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:40:22] [Server thread/INFO]: PiteTo left the game
+[18:40:26] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:37730] logged in with entity id 6182 at (39.76989749787378, 31.026687893758893, 128.89128885609492)
+[18:40:26] [Server thread/INFO]: PiteTo joined the game
+[18:40:30] [Server thread/INFO]: [Not Secure] <PiteTo> fuuck
+[18:40:38] [Server thread/INFO]: [Not Secure] <eee> I TOLD YOU TO NOT ATTACK
+[18:40:41] [Server thread/INFO]: [Not Secure] <eee> THE FUCKING PIGLIN
+[18:42:02] [Server thread/INFO]: [Not Secure] <arthurus36> ik where is old base in overworld tho
+[18:42:06] [Server thread/INFO]: [Not Secure] <arthurus36> well almost
+[18:42:07] [Server thread/INFO]: [Not Secure] <PiteTo> m too
+[18:42:16] [Server thread/INFO]: [Not Secure] <arthurus36> pillar is da waypoint kinda
+[18:42:21] [Server thread/INFO]: [Not Secure] <PiteTo> OH FUCK
+[18:42:23] [Server thread/INFO]: [Not Secure] <PiteTo> PILLAGERS
+[18:42:28] [Server thread/INFO]: [Not Secure] <arthurus36> fuck
+[18:42:30] [Server thread/INFO]: [Not Secure] <PiteTo> YOU GOT A KNIFE?
+[18:42:33] [Server thread/INFO]: [Not Secure] <arthurus36> TOWERRR DEFENSE
+[18:42:41] [Server thread/INFO]: [Not Secure] <PiteTo> IN THE GLORY OF SOVIET UNION
+[18:42:50] [Server thread/INFO]: [Not Secure] <PiteTo> hello pillager
+[18:42:52] [Server thread/INFO]: [Not Secure] <PiteTo> dont attac
+[18:42:54] [Server thread/INFO]: [Not Secure] <PiteTo> i friendly
+[18:43:02] [Server thread/INFO]: [Not Secure] <PiteTo> HIH
+[18:43:04] [Server thread/INFO]: [Not Secure] <PiteTo> AAA
+[18:43:20] [Server thread/INFO]: [Not Secure] <arthurus36> I DONT HAVE A PICK
+[18:43:22] [Server thread/INFO]: [Not Secure] <arthurus36> break
+[18:43:23] [Server thread/INFO]: [Not Secure] <arthurus36> am stuc
+[18:44:09] [Server thread/INFO]: [Not Secure] <arthurus36> uh`
+[18:44:11] [Server thread/INFO]: [Not Secure] <arthurus36> where u
+[18:44:18] [Server thread/INFO]: [Not Secure] <PiteTo> mether
+[18:44:27] [Server thread/INFO]: [Not Secure] <arthurus36> meth
+[18:44:28] [Server thread/INFO]: [Not Secure] <PiteTo> meth
+[18:44:31] [Server thread/INFO]: [Not Secure] <PiteTo> walter white
+[18:44:55] [Server thread/INFO]: [Not Secure] <PiteTo> where is the entrance
+[18:45:02] [Server thread/INFO]: [Not Secure] <arthurus36> and this was sponsored by allegro.pl bru
+[18:45:23] [Server thread/INFO]: eee was doomed to fall by PiteTo
+[18:45:25] [Server thread/INFO]: [Not Secure] <arthurus36> lmfaoo
+[18:45:34] [Server thread/INFO]: [Not Secure] <eee> SHUT THE FUCK UP
+[18:45:35] [Server thread/INFO]: [Not Secure] <PiteTo> OOPS
+[18:45:35] [Server thread/INFO]: [Not Secure] <eee> NIGGER
+[18:45:37] [Server thread/INFO]: [Not Secure] <eee> NIGGER
+[18:45:44] [Server thread/INFO]: [Not Secure] <arthurus36> nigger x2 in chat
+[18:45:50] [Server thread/INFO]: [Not Secure] <arthurus36> man will hit the x3
+[18:45:50] [Server thread/INFO]: [Not Secure] <eee> SHUT THE FUCK UP
+[18:45:56] [Server thread/INFO]: eee lost connection: Disconnected
+[18:45:56] [Server thread/INFO]: eee left the game
+[18:46:04] [Server thread/INFO]: [Not Secure] <PiteTo> -453 64 460
+[18:46:19] [Server thread/INFO]: arthurus36 has made the advancement [Cover Me with Diamonds]
+[18:46:21] [Server thread/INFO]: [Not Secure] <arthurus36> yo
+[18:46:25] [Server thread/INFO]: [Not Secure] <arthurus36> got sum h=of his stuff
+[18:46:27] [Server thread/INFO]: [Not Secure] <arthurus36> wanna share
+[18:46:30] [Server thread/INFO]: [Not Secure] <PiteTo> arthur
+[18:46:33] [Server thread/INFO]: [Not Secure] <PiteTo> give me the diamond thingies
+[18:46:36] [Server thread/INFO]: [Not Secure] <PiteTo> you get rest
+[18:46:37] [Server thread/INFO]: [Not Secure] <arthurus36> yeah
+[18:46:51] [Server thread/INFO]: [Not Secure] <arthurus36> how the fuck u will get down easily bru
+[18:47:23] [Server thread/INFO]: [Not Secure] <arthurus36> man got only that in diamond
+[18:47:39] [Server thread/INFO]: [Not Secure] <PiteTo> give
+[18:47:42] [Server thread/INFO]: [Not Secure] <arthurus36> here
+[18:47:46] [Server thread/INFO]: PiteTo has made the advancement [Cover Me with Diamonds]
+[18:47:53] [Server thread/INFO]: [Not Secure] <arthurus36> he got pearls
+[18:47:56] [Server thread/INFO]: [Not Secure] <PiteTo> oh
+[18:47:57] [Server thread/INFO]: [Not Secure] <arthurus36> take
+[18:48:03] [Server thread/INFO]: [Not Secure] <PiteTo> keep em for enderdragon
+[18:48:04] [Server thread/INFO]: [Not Secure] <PiteTo> safe
+[18:48:06] [Server thread/INFO]: [Not Secure] <PiteTo> somewhere
+[18:48:18] [Server thread/INFO]: [Not Secure] <PiteTo> also give me some pickaxe
+[18:48:25] [Server thread/INFO]: [Not Secure] <PiteTo> and some gold thingey
+[18:48:30] [Server thread/INFO]: arthurus36 was slain by Zombified Piglin
+[18:48:32] [Server thread/INFO]: [Not Secure] <PiteTo> NOOO
+[18:48:46] [Server thread/INFO]: PiteTo was slain by Zombified Piglin
+[18:48:49] [Server thread/INFO]: [Not Secure] <PiteTo> FUCK
+[18:49:08] [Server thread/INFO]: [Not Secure] <PiteTo> arthur
+[18:49:13] [Server thread/INFO]: [Not Secure] <PiteTo> stop fucking cheating
+[18:49:17] [Server thread/INFO]: [Not Secure] <arthurus36> i dont
+[18:49:20] [Server thread/INFO]: [Not Secure] <PiteTo> you sure?
+[18:49:22] [Server thread/INFO]: [Not Secure] <arthurus36> yes
+[18:49:25] [Server thread/INFO]: [Not Secure] <PiteTo> k
+[18:49:35] [Server thread/INFO]: [Not Secure] <arthurus36> anyways polymc doesnt give a shit with fabric
+[18:49:38] [Server thread/INFO]: [Not Secure] <PiteTo> now gib da armor
+[18:49:49] [Server thread/INFO]: [Not Secure] <PiteTo> stop
+[18:49:54] [Server thread/INFO]: [Not Secure] <PiteTo> bro
+[18:49:57] [Server thread/INFO]: [Not Secure] <PiteTo> chestplate
+[18:50:04] [Server thread/INFO]: [Not Secure] <PiteTo> no
+[18:50:05] [Server thread/INFO]: [Not Secure] <arthurus36> here
+[18:50:05] [Server thread/INFO]: [Not Secure] <PiteTo> diamond one
+[18:50:09] [Server thread/INFO]: [Not Secure] <PiteTo> oh
+[18:50:10] [Server thread/INFO]: [Not Secure] <PiteTo> thanks
+[18:50:20] [Server thread/INFO]: [Not Secure] <PiteTo> now piglins wont attack
+[18:50:25] [Server thread/INFO]: [Not Secure] <PiteTo> get yourself golden boots too
+[18:50:38] [Server thread/INFO]: [Not Secure] <arthurus36> dont hav gold
+[18:50:40] [Server thread/INFO]: [Not Secure] <arthurus36> lemme get
+[18:50:42] [Server thread/INFO]: [Not Secure] <PiteTo> does he have any gold?
+[18:50:43] [Server thread/INFO]: [Not Secure] <PiteTo> fuck
+[18:51:39] [Server thread/INFO]: [Not Secure] <arthurus36> 1 gold ingot bru
+[18:51:54] [Server thread/INFO]: [Not Secure] <PiteTo> gud
+[18:51:55] [Server thread/INFO]: [Not Secure] <PiteTo> now 3 more
+[18:54:16] [Server thread/INFO]: [Not Secure] <PiteTo> why did u bury me
+[18:54:19] [Server thread/INFO]: [Not Secure] <arthurus36> i didnt
+[18:54:23] [Server thread/INFO]: [Not Secure] <arthurus36> i wanted make a item trash
+[18:54:31] [Server thread/INFO]: arthurus36 has made the advancement [Hot Stuff]
+[18:54:40] [Server thread/INFO]: [Not Secure] <arthurus36> wait
+[18:54:42] [Server thread/INFO]: [Not Secure] <arthurus36> gold
+[18:54:43] [Server thread/INFO]: [Not Secure] <arthurus36> ez
+[18:54:47] [Server thread/INFO]: [Not Secure] <arthurus36> lemme make q farm
+[18:54:52] [Server thread/INFO]: [Not Secure] <arthurus36> rq
+[18:56:10] [Server thread/INFO]: [Not Secure] <PiteTo> K
+[18:56:47] [Server thread/INFO]: [Not Secure] <arthurus36> broke my pick shit
+[18:58:12] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:12] [Server thread/INFO]: PiteTo left the game
+[18:58:13] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[18:58:13] [Server thread/INFO]: arthurus36 left the game
+[18:58:14] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:45772] logged in with entity id 9310 at (-128.82685140414333, 48.0, 69.04073738273115)
+[18:58:14] [Server thread/INFO]: PiteTo joined the game
+[18:58:15] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:45782] logged in with entity id 9439 at (-128.70643121878436, 46.0, 75.19670717751941)
+[18:58:15] [Server thread/INFO]: arthurus36 joined the game
+[18:58:16] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:16] [Server thread/INFO]: PiteTo left the game
+[18:58:17] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:45812] logged in with entity id 9440 at (-130.99964568398332, 48.0, 67.51393391089637)
+[18:58:17] [Server thread/INFO]: PiteTo joined the game
+[18:58:19] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:19] [Server thread/INFO]: PiteTo left the game
+[18:58:20] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:45820] logged in with entity id 9441 at (-130.99964568398332, 48.0, 67.51393391089637)
+[18:58:20] [Server thread/INFO]: PiteTo joined the game
+[18:58:21] [Server thread/INFO]: [Not Secure] <arthurus36> aw
+[18:58:22] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:22] [Server thread/INFO]: PiteTo left the game
+[18:58:22] [Server thread/INFO]: [Not Secure] <arthurus36> oof
+[18:58:24] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:44086] logged in with entity id 9443 at (-130.99964568398332, 48.0, 67.51393391089637)
+[18:58:24] [Server thread/INFO]: PiteTo joined the game
+[18:58:25] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:25] [Server thread/INFO]: PiteTo left the game
+[18:58:29] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:44104] logged in with entity id 9444 at (-130.99964568398332, 48.0, 67.51393391089637)
+[18:58:29] [Server thread/INFO]: PiteTo joined the game
+[18:58:30] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:30] [Server thread/INFO]: PiteTo left the game
+[18:58:32] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:44114] logged in with entity id 9445 at (-130.99964568398332, 48.0, 67.51393391089637)
+[18:58:32] [Server thread/INFO]: PiteTo joined the game
+[18:58:33] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[18:58:33] [Server thread/INFO]: PiteTo left the game
+[18:58:35] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:59254] logged in with entity id 9446 at (-130.99964568398332, 48.0, 67.51393391089637)
+[18:58:35] [Server thread/INFO]: PiteTo joined the game
+[18:58:39] [Server thread/INFO]: [Not Secure] <PiteTo> finally
+[18:58:49] [Server thread/INFO]: [Not Secure] <PiteTo> dont do that again
+[18:58:52] [Server thread/INFO]: [Not Secure] <arthurus36> ok
+[18:58:59] [Server thread/INFO]: [Not Secure] <arthurus36> hell
+[18:59:15] [Server thread/INFO]: [Not Secure] <PiteTo> u
+[18:59:17] [Server thread/INFO]: [Not Secure] <PiteTo> dont fall
+[18:59:34] [Server thread/INFO]: [Not Secure] <arthurus36> sneak for magma
+[19:00:11] [Server thread/INFO]: [Not Secure] <arthurus36> can u mine me tda gold
+[19:00:14] [Server thread/INFO]: [Not Secure] <arthurus36> da*
+[19:00:18] [Server thread/INFO]: [Not Secure] <arthurus36> bc my pick broke
+[19:00:23] [Server thread/INFO]: [Not Secure] <PiteTo> i dont have pic
+[19:00:28] [Server thread/INFO]: [Not Secure] <arthurus36> oh
+[19:00:34] [Server thread/INFO]: [Not Secure] <PiteTo> RUN
+[19:01:31] [Server thread/INFO]: [Not Secure] <PiteTo> im taking a break
+[19:01:32] [Server thread/INFO]: PiteTo lost connection: Disconnected
+[19:01:32] [Server thread/INFO]: PiteTo left the game
+[19:01:40] [Server thread/INFO]: PiteTo[/[0:0:0:0:0:0:0:1%0]:59424] logged in with entity id 9621 at (-127.69999998807907, 47.0, 92.30000001192093)
+[19:01:40] [Server thread/INFO]: PiteTo joined the game
+[19:01:44] [Server thread/INFO]: [Not Secure] <PiteTo> break done
+[19:01:46] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:01:46] [Server thread/INFO]: arthurus36 left the game
+[19:01:48] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:58618] logged in with entity id 9631 at (-128.31478212435195, 44.0, 89.69999998807907)
+[19:01:48] [Server thread/INFO]: arthurus36 joined the game
+[19:01:51] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:01:51] [Server thread/INFO]: arthurus36 left the game
+[19:01:52] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:58636] logged in with entity id 9636 at (-129.6703135757437, 44.0, 88.76437610028833)
+[19:01:52] [Server thread/INFO]: arthurus36 joined the game
+[19:01:54] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:01:54] [Server thread/INFO]: arthurus36 left the game
+[19:01:55] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:48744] logged in with entity id 9644 at (-129.6703135757437, 44.0, 88.76437610028833)
+[19:01:55] [Server thread/INFO]: arthurus36 joined the game
+[19:02:00] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:02:00] [Server thread/INFO]: arthurus36 left the game
+[19:02:02] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:48756] logged in with entity id 9653 at (-129.6703135757437, 44.0, 88.76437610028833)
+[19:02:02] [Server thread/INFO]: arthurus36 joined the game
+[19:02:05] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:02:05] [Server thread/INFO]: arthurus36 left the game
+[19:02:07] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:41868] logged in with entity id 9661 at (-129.6703135757437, 44.0, 88.29778226213473)
+[19:02:07] [Server thread/INFO]: arthurus36 joined the game
+[19:02:09] [Server thread/INFO]: [Not Secure] <arthurus36> oof
+[19:02:11] [Server thread/INFO]: [Not Secure] <arthurus36> 1 hearth
+[19:03:28] [Server thread/INFO]: [Not Secure] <arthurus36> a
+[19:03:29] [Server thread/INFO]: [Not Secure] <arthurus36> oof
+[19:04:00] [Server thread/INFO]: [Not Secure] <arthurus36> i need few blocks
+[19:04:15] [Server thread/INFO]: [Not Secure] <arthurus36> oof
+[19:04:41] [Server thread/INFO]: [Not Secure] <arthurus36> HEL
+[19:04:48] [Server thread/INFO]: [Not Secure] <PiteTo> where are we
+[19:04:54] [Server thread/INFO]: [Not Secure] <arthurus36> i falled
+[19:05:10] [Server thread/INFO]: [Not Secure] <PiteTo> what
+[19:05:13] [Server thread/INFO]: [Not Secure] <PiteTo> where our base
+[19:05:55] [Server thread/WARN]: arthurus36 moved too quickly! 1.5590969683176041,10.000000000000085,1.0264157804595655
+[19:06:24] [Server thread/INFO]: PiteTo fell from a high place
+[19:07:07] [Server thread/INFO]: [Not Secure] <PiteTo> the fuck
+[19:07:19] [Server thread/INFO]: [Not Secure] <arthurus36> man dirt is the only thing i can get by hand bruh
+[19:08:55] [Server thread/INFO]: [Not Secure] <arthurus36> how the fuck i can get up now
+[19:09:05] [Server thread/INFO]: [Not Secure] <PiteTo> WHERE ARE U
+[19:09:14] [Server thread/INFO]: [Not Secure] <arthurus36> look forward
+[19:09:17] [Server thread/INFO]: [Not Secure] <PiteTo> OH FUCK
+[19:09:43] [Server thread/INFO]: [Not Secure] <arthurus36> mm oh cave
+[19:09:54] [Server thread/INFO]: [Not Secure] <arthurus36> not deep
+[19:10:17] [Server thread/INFO]: [Not Secure] <PiteTo> where do we go
+[19:10:22] [Server thread/INFO]: [Not Secure] <arthurus36> idk
+[19:10:58] [Server thread/INFO]: [Not Secure] <PiteTo> i remebmer cords
+[19:11:05] [Server thread/INFO]: [Not Secure] <PiteTo> -57
+[19:12:28] [Server thread/INFO]: [Not Secure] <PiteTo> the fuck
+[19:12:34] [Server thread/INFO]: [Not Secure] <PiteTo> FINALLY
+[19:14:30] [Server thread/INFO]: arthurus36 burned to death
+[19:14:33] [Server thread/INFO]: [Not Secure] <arthurus36> a
+[19:15:04] [Server thread/INFO]: [Not Secure] <arthurus36> idea
+[19:15:11] [Server thread/INFO]: [Not Secure] <arthurus36> yeah good
+[19:15:36] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:15:36] [Server thread/INFO]: arthurus36 left the game
+[19:15:40] [Server thread/INFO]: arthurus36[/[0:0:0:0:0:0:0:1%0]:36632] logged in with entity id 11004 at (-85.34617490142644, 68.0, 57.69999998807907)
+[19:15:40] [Server thread/INFO]: arthurus36 joined the game
+[19:17:57] [Server thread/INFO]: arthurus36 lost connection: Disconnected
+[19:17:57] [Server thread/INFO]: arthurus36 left the game
